@@ -1,0 +1,24 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "lulu-cc-marketplace",
+  "version": "1.0.0",
+  "description": "Lewis's curated collection of Claude Code plugins — presentation skills, productivity tools, and more.",
+  "owner": {
+    "name": "lewis",
+    "email": "sudolewis@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "html-ppt",
+      "description": "Author professional HTML presentations with 36 themes, 31 layouts, 47 animations, and 14 full-deck templates. One command, 100+ PPT skills.",
+      "version": "1.0.0",
+      "author": {
+        "name": "lewis",
+        "email": "sudolewis@gmail.com"
+      },
+      "source": "./html-ppt",
+      "category": "productivity",
+      "keywords": ["ppt", "presentation", "slides", "html", "design", "themes"]
+    }
+  ]
+}

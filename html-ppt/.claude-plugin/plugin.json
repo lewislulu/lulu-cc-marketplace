@@ -1,0 +1,7 @@
+{
+  "name": "html-ppt",
+  "version": "1.0.0",
+  "description": "Author professional HTML presentations with 36 themes, 31 layouts, 47 animations (27 CSS + 20 canvas FX), and 14 full-deck templates. Supports tech sharing, pitch decks, weekly reports, 小红书图文, course modules, and more.",
+  "keywords": ["ppt", "presentation", "slides", "html", "design", "themes", "animations", "templates", "productivity"],
+  "strict": true
+}
